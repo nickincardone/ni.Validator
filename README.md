@@ -2,9 +2,9 @@
 
 ## Angular input validation system
 
-Demo setup from Chris Hourihan (github.com/kristofmic)
+Demo setup from [Chris Hourihan](https://github.com/kristofmic)
 
-See an improved version of this module at github.com/kristofmic/chValidator
+See an improved version of this module [here](https://github.com/kristofmic/chValidator). 
 
 ## Setup
 
