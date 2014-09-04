@@ -1,10 +1,10 @@
 {
-  "name": "chSnackbar",
+  "name": "niValidator",
   "version": "0.0.1",
-  "description": "angular module for snackbar notifications",
-  "main": "chSnackbar.min.js",
+  "description": "angular module for form validation",
+  "main": "",
   "authors": [
-    "chris hourihan"
+    "Nichlos Incardone"
   ],
   "license": "MIT",
   "ignore": [
